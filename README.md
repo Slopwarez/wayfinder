@@ -5,7 +5,7 @@ Wayfinder is a Vim-inspired terminal file manager built with Rust, Ratatui, and 
 > [!WARNING]
 > This is 100% vibe-coded slopware. Use at your own risk.
 
-![Wayfinder TUI screenshot](screenshot.png)
+![Wayfinder TUI screenshot](./screenshot.png)
 
 ## Features
 
