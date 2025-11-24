@@ -2,6 +2,9 @@
 
 Wayfinder is a Vim-inspired terminal file manager built with Rust, Ratatui, and Crossterm. It features async directory scanning, search overlays, command palette, preview panes, and filesystem actions.
 
+> [!WARNING]
+> This is 100% vibe-coded slopware. Use at your own risk.
+
 ## Features
 
 - Async directory listing with smooth navigation
